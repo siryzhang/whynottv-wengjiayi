@@ -1,5 +1,6 @@
-<img width="929" height="408" alt="image" src="https://github.com/user-attachments/assets/78a861bf-9b8d-487a-9191-6e40314df7a3" /># 翁家翌 × WhynotTV Podcast #4 · Interactive Digest
-# [🔗交互式 Demo](https://siryzhang.github.io/whynottv-wengjiayi/)
+# 翁家翌 × WhynotTV Podcast #4 · Interactive Digest
+
+ [🔗交互式 Demo](https://siryzhang.github.io/whynottv-wengjiayi/)
 
 ![Cover](./cover.png)
 
