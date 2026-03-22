@@ -32,33 +32,6 @@
 - **开源是一种慈善** — 不是履历装饰，而是对世界的投入方式
 - **Researcher 最先被 AI 替代** — 然后是工程师，最难替代的是 Sales
 
-## 🚀 快速开始
-
-### 本地预览
-
-```bash
-# 直接用浏览器打开根目录的 index.html 即可
-open index.html
-```
-
-### 部署到 GitHub Pages
-
-本项目已预构建，上传后直接开启 GitHub Pages 即可：
-
-1. 上传到 GitHub 仓库
-2. 进入 **Settings → Pages**
-3. Source 选择 **Deploy from a branch**
-4. Branch 选 **main**，文件夹选 **/ (root)**
-5. 保存，等待几分钟即可访问
-
-### 二次开发
-
-```bash
-npm install
-npm run dev      # 启动开发服务器
-npm run build    # 重新构建
-```
-
 ## 🛠️ 技术栈
 
 - **React 18** — 组件化 UI
